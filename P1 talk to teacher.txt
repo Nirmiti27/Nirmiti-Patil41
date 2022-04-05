@@ -1,0 +1,24 @@
+//my First C program
+
+#include<stdio.h>
+
+int main()
+
+{
+    
+    printf("Talk To a Teacher\n");
+
+    printf("welcome\n");
+
+    return 0;
+    
+
+}
+
+OUTPUT
+Talk To a Teacher
+welcome
+
+
+...Program finished with exit code 0
+Press ENTER to exit console.
