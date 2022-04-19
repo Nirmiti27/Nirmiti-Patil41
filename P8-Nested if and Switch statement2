@@ -26,4 +26,4 @@ int main()
     
     /************OUTPUT************
     Enter a number between 0 to 39: 35
-you have entered the number in the range of 30 to 39
+you have entered the number in the range of 30 to 39*/
